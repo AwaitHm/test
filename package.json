@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "git-clone": "^0.1.0"
+  }
+}
