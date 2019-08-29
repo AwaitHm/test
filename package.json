@@ -1,5 +1,5 @@
 {
   "dependencies": {
-    "git-clone": "^0.1.0"
+    "element-ui": "^2.11.1"
   }
 }
